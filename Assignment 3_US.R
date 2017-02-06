@@ -40,4 +40,6 @@ mutistock <- function(path) {
   write.csv(data,'result.csv')
   
   
-}  
+} 
+
+#huang yu ting shi bong bong
